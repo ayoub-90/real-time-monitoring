@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 config/credentials.json
 .env
+config/token.pickle
+
+config/token.pickle
