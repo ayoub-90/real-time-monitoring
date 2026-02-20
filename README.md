@@ -230,7 +230,7 @@ config/token.pickle
 
 **Ayoub El Harem**
 
-* GitHub: [@ton-username](https://github.com/ton-username)
+* Lien vers lookerstudio: [@lookerstudio](https://lookerstudio.google.com/reporting/f2b4c6fe-5f36-40f7-8e82-d705fd878bc4)
 
 ---
 
